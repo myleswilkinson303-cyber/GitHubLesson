@@ -6,10 +6,13 @@ A reproducible analysis of morphological measurements from the Palmer Penguins d
 
 
 ## About the Data
-hello 
+hello - let us make annoying changes that will clash, 
 This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) at the [Palmer Station Long Term Ecological Research](https://pallter.marine.rutgers.edu/) site in Antarctica.
 
 **Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
+Which penguin would you be? 
+I think I am a Gentoo penguin. 
+i love penguins and i'm a terrible collaborator. 
 
 **Research location:** [TODO: Which three islands were the penguins observed on? Hint: check the `island` column in `data/penguins_raw.csv`]
 
@@ -28,7 +31,7 @@ The dataset includes the following morphological measurements:
 | `flipper_length_mm` | [TODO: Include range] |
 | `body_mass_g` | [TODO: Include range] |
 
-## What the Analysis Does
+## What the Analysis Does I am going t change and mess up myles' file. 
 
 The R script `run_analysis_SOLUTIONS.R` performs the following steps:
 
